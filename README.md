@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lion-star-gold
 - 👀 I’m interested in data analysis using Python and R
 - 🌱 I’m currently learning how to use my new skills in projects to challenge my skills!
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on a new challenge
 - 📫 How to reach me -> on LinkedIn -> www.linkedin.com/in/chloe-dickinson-mcr-
 
 <!---

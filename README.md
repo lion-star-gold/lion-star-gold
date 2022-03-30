@@ -2,7 +2,7 @@
 - 👀 I’m interested in processing data for machine learning in Python
 - 🌱 I’m currently learning how to use my new skills in projects to challenge my skills!
 - 💞️ I’m looking to collaborate on a new challenge
-- 📫 How to reach me -> on LinkedIn -> www.linkedin.com/in/chloe-dickinson-mcr-
+- 📫 How to reach me -> on LinkedIn -> www.linkedin.com/in/chloe-dickinson-mcr-/
 
 <!---
 lion-star-gold/lion-star-gold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
